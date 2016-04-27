@@ -12,3 +12,6 @@ When we want to try something new, we can create a branch from the master and co
 
 How do the diagrams help you visualize the branch structure?
 It gives a visual idea of the branch structure and also the branches that can and cannot be reached.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Result fo merging two branches is one branch that has all the change history of both the branches that were merged.
