@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all the changes to your local?
+I would do it when I want to collaborate with the other team members and make my changes available to the others.
