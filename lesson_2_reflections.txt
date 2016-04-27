@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+It initializes and prepares the folder to be comitted to the git repository. It adds the required metadata to track the files the folders in that directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a place where you can move your files that you want to commit. It gives us the value of providing a space to park the files that are supposed to comitted.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Use the git add to add each logical change to the Staging area and committing it and then going back to the next logical change and follow the same process
+
